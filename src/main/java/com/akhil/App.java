@@ -11,6 +11,6 @@ public class App
     public static void main( String[] args )
     {
     	Student akhil = new Student(101,"Akhil");
-    	System.out.println("Student Details: "+s.getSid()+" "+s.getSname());
+    	System.out.println("Student Details: "+akhil.getSid()+" "+akhil.getSname());
     }
 }
