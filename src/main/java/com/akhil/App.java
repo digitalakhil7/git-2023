@@ -26,4 +26,7 @@ public class App
 	public void sub(){
 		
 	}
+	public void add(){
+
+	}
 }
