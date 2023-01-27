@@ -20,4 +20,7 @@ public class App
 	public void gitHub(){
 		
 	}
+	public void test(){
+
+	}
 }
