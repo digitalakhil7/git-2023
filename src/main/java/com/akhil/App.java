@@ -12,6 +12,7 @@ public class App
     {
         int a = 10;
         int b = 20;
+		int akh = 40;
     	Student akhil = new Student(101,"Akhil");
     	System.out.println("Student Details: "+akhil.getSid()+" "+akhil.getSname());
     }
