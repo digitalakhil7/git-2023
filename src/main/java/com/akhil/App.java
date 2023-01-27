@@ -17,4 +17,7 @@ public class App
     	Student akhil = new Student(101,"Akhil");
     	System.out.println("Student Details: "+akhil.getSid()+" "+akhil.getSname());
     }
+	public void gitHub(){
+		
+	}
 }
