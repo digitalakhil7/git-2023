@@ -23,4 +23,7 @@ public class App
 	public void test(){
 
 	}
+	public void sub(){
+		
+	}
 }
