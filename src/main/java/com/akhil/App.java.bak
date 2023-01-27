@@ -30,6 +30,5 @@ public class App
 
 	}
 	public void newFeature(){
-
 	}
 }
