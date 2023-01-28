@@ -30,6 +30,6 @@ public class App
 
 	}
 	public void newFeature(){
-
+		//added from IDE
 	}
 }
